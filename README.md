@@ -2,7 +2,7 @@
 
 Main App:
 
-![img0](https://user-images.githubusercontent.com/83153603/124319846-7a66c700-db98-11eb-8ede-67fb92151996.JPG)
+![img4](https://user-images.githubusercontent.com/83153603/124320111-eba67a00-db98-11eb-867b-3df991c73845.jpg)
 
 
 Entering the Name of Food Item:
@@ -12,7 +12,7 @@ Entering the Name of Food Item:
 
 List of Food Items:
 
-![img2](https://user-images.githubusercontent.com/83153603/124319157-771f0b80-db97-11eb-9c5e-50db8de16cef.JPG)
+![img5](https://user-images.githubusercontent.com/83153603/124320117-ee08d400-db98-11eb-9d16-cae8e6b1c93f.jpg)
 
 
 Deleting Food Item:
