@@ -2,6 +2,8 @@
 
 Main App:
 
+![img0](https://user-images.githubusercontent.com/83153603/124319846-7a66c700-db98-11eb-8ede-67fb92151996.JPG)
+
 
 Entering the Name of Food Item:
 
@@ -14,3 +16,5 @@ List of Food Items:
 
 
 Deleting Food Item:
+
+![img3](https://user-images.githubusercontent.com/83153603/124319862-7dfa4e00-db98-11eb-8a22-ad260c36053e.JPG)
